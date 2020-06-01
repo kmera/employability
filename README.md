@@ -14,13 +14,24 @@ The libaries needed to run the code, using Python version 3.* are:
 * NumPy
 * Matplotlib
 
+And the libraries for R file using R version 4.* are:
+
+* readxl
+* dplyr
+* tidyr
+* ggplot2
+* Amelia
+* stringr
+
 ## Project Motivation<a name="motivation"></a>
 
 Here in Ecuador, there are plenty of training centers that deliver not only presencial but also online courses of any kind, but most of them aren't related to the actual job requirements, so the idea is to map the training courses offer with the job required in the local market.
+There are two main files, the
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook that was developed to answer the three questions using basic Exploratory Data Analysis. Calendar and Listings were the csv files condidered in this case. Moreover, Markdown cells were used to explain the steps considered to each business question.
+There is one main notebook that was developed to analyze the infor
+the three questions using basic Exploratory Data Analysis. Calendar and Listings were the csv files condidered in this case. Moreover, Markdown cells were used to explain the steps considered to each business question.
 
 ## Results<a name="results"></a>
 
