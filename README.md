@@ -24,7 +24,7 @@ And the libraries for R file using R version 4.* are:
 
 ## Project Motivation<a name="motivation"></a>
 
-Here in Ecuador, there are plenty of training centers that deliver not only presencial but also online courses of any kind, but most of them aren't related to the actual job requirements, so the idea is to map the training courses offer with the job required in the local market. 
+Here in Ecuador, there are plenty of training centers that deliver not only presencial but also online courses of any kind, but most of them aren't related to the actual job requirements, so the idea of this project is to map the training courses offer with the job required in the local market. 
 
 **Note, the comments and findings in the notebook are in Spanish due to the information gathered is in Sapnish as well**
 
@@ -40,4 +40,8 @@ The cleaning and feature engineering done in the training center file was develo
 
 ## Results<a name="results"></a>
 
-The main findings of the code 
+The results are split in two: 
+* Findings related to the jobs offer file, including that there are more requirements for non-tech jobs thant for the tech ones; next, the majority of the jobs are concentrated in three main `Provicias` such as Guayas, Pichincha and Azuay, and finally, the top three jobs offer are `Desarrollador Web`, `QA tester` and `Community Manager`. On the other hand, the top non-tech jobs are `Asistente`, `Vendedor` and `Ejecutivo`.
+
+* Findings in training center file, including 
+
